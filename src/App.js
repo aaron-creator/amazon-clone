@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h1>Hi Aaron</h1>
-      <h3>Welcome to React.</h3>
+      <h3>Welcome to React javascript.</h3>
     </div>
   );
 }
